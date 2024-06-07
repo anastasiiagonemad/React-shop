@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Топ халтер с искусственным жемчугом",
+    "price": "2599 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/77094118511c2ab87e8a5437d9ef83352b78e87de.jpg?q=85&w=1012"
+  },
+  {
+    "id": 2,
+    "name": "Сумка с эффектом кракле",
+    "price": "3999 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/77094069535b148f791874358b41f959609b69661.jpg?q=85&w=1012"
+  },
+  {
+    "id": 3,
+    "name": "Платье макси изо льна и вискозы",
+    "price": "8999 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/77094460980b92ee07581443c93a08db0f90fbf29.jpg?q=85&w=1012"
+  },
+  {
+    "id": 4,
+    "name": "Рельефные серьги",
+    "price": "1599 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/7709423003effea1f31a64e269fd8b42879718e21.jpg?q=85&w=1012"
+  },
+  {
+    "id": 5,
+    "name": "Джинсы wide-leg со средней посадкой",
+    "price": "5999 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/77094112432a549c24cd748f581b86645a21665fb.jpg?q=85&w=1012"
+  },
+  {
+    "id": 6,
+    "name": "Топ кроше с бахромой и бусинами",
+    "price": "4999 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/77094112432a549c24cd748f581b86645a21665fb.jpg?q=85&w=1012"
+  },
+  {
+    "id": 7,
+    "name": "Юбка макси с люрексом",
+    "price": "4999 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/77094176228e501480d80418b9468f6c01d51041c.jpg?q=85&w=1012"
+  },
+  {
+    "id": 8,
+    "name": "Джинсы wide-leg со средней посадкой",
+    "price": "5999 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/77094112432a549c24cd748f581b86645a21665fb.jpg?q=85&w=1012"
+  },
+  {
+    "id": 9,
+    "name": "Юбка макси из атласа",
+    "price": "9999 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/770941237697cc49a8a144ee484cbc33b4f063f3f.jpg?q=85&w=1012"
+  },
+  {
+    "id": 10,
+    "name": "Ассиметричный браслет",
+    "price": "2599 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/77094090952e2fb4d37bc44079e71719232948511.jpg?q=85&w=1012"
+  },
+  {
+    "id": 11,
+    "name": "Брюки прямого кроя из атласа",
+    "price": "6999 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/770942020de7404b21fb345f0afe7ed7ddf3bc670.jpg?q=85&w=1012"
+  },
+  {
+    "id": 12,
+    "name": "Ассиметричный топ из вискозы",
+    "price": "5999 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/770941968cae25229e5324a53ae8622abf42c1a84.jpg?q=85&w=1012"
+  },
+  {
+    "id": 13,
+    "name": "Платье мини в бельевом стиле",
+    "price": "5999 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/7709413833a83778b092742e285e6775c3e80468c.jpg?q=85&w=1012"
+  },
+  {
+    "id": 14,
+    "name": "Трикотажный топ с шелком",
+    "price": "4999 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/7709418409e44a65a445f442182939848cfa06904.jpg?q=85&w=1012"
+  },
+  {
+    "id": 15,
+    "name": "Джинсы wide-leg с искусственным жемчугом",
+    "price": "8999 руб.",
+    "icon": "https://cache-limeshop.cdnvideo.ru/limeshop/aa/770941910709c50546a9d4149b3023fd61e6f42e3.jpg?q=85&w=1012"
+  }
+]

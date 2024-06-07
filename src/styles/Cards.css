@@ -1,0 +1,40 @@
+.cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    justify-content: center;
+    align-items: stretch;
+
+    margin: 2rem;
+}
+
+.card {
+    margin: 1rem;
+}
+
+.card__icon img {
+    object-fit: cover;
+    width: 100%;
+    border-radius: 2px;
+}
+
+.card__name h2 {
+    text-transform: uppercase;
+    font-size: 0.875em;
+}
+.card__price p {
+    font-size: 0.8em;
+    text-transform: uppercase;
+    color: rgb(78, 78, 78);
+}
+.card__button button {
+    border: 1px solid black;
+    padding: 1rem;
+    cursor: pointer;
+    background-color: white;
+}
+
+.card__button button:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s ease;
+}

@@ -1,0 +1,15 @@
+body {
+    margin: 0 auto;
+    background-color: aliceblue;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+input {
+    font-family: sans-serif;
+    font-size: 0.7em;
+}
+
+input::placeholder {
+    color: rgb(164, 162, 162);
+}
